@@ -1,0 +1,36 @@
+.header{
+    text-align: center;
+    overflow: hidden;
+   
+   
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.header img{
+    height:300px;
+    width:300px;
+    
+}
+
+.header nav{
+    background-color: black;
+    line-height: 40px;
+    font-size:27px;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right:20px;
+    padding: 5px;
+    text-align:'left'
+}
+
+nav a:hover{
+    background-color: mediumseagreen;
+}
